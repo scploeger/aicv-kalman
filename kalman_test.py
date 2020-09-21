@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-iterations = 75
+iterations = 100
 
 #true value
 x = -2
@@ -18,7 +18,7 @@ A = -1 #negative so error converges
 H = 1 #=1 because the state IS the measurement
 
 Q = 0.0005
-R = 0.1 #assume a low measurement variance
+R = 0.04 #assume a low measurement variance
 
 #empty lists
 x_hat = [0] * iterations

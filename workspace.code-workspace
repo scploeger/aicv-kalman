@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/home/spencer/Git/bidirectional-robot"
+		},
+		{
+			"name": "esp8266_sending_test",
+			"path": "/home/spencer/Git/bidirectional-robot/esp8266_sending_test"
+		},
+		{
+			"path": "/home/spencer/Git/bidirectional-robot/python_scripts"
+		},
+		{
+			"name": "Encoder Test",
+			"path": "/home/spencer/Git/bidirectional-robot/Encoder Test"
+		}
+	],
+	"settings": {}
+}
